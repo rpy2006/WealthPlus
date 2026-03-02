@@ -85,12 +85,10 @@ https://img.shields.io/badge/Charts-Interactive-2471a3?style=flat-square
 
 <div align="center">
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
-https://img.shields.io/badge/html2canvas-1.4.1-0f2037?style=for-the-badge
-https://img.shields.io/badge/jsPDF-2.5.1-c0392b?style=for-the-badge
+Frontend Libraries Deployment
+https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white https://img.shields.io/badge/html2canvas-1.4.1-0f2037 https://img.shields.io/badge/License-MIT-yellow
+https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black https://img.shields.io/badge/jsPDF-2.5.1-c0392b https://img.shields.io/badge/Dependencies-None-brightgreen
 
 </div>
 
@@ -123,13 +121,14 @@ No data ever leaves your device. Everything runs locally in your browser. No acc
 
 <div align="center">
 
-https://img.shields.io/badge/Desktop-%E2%9C%94-success?style=flat-square
-https://img.shields.io/badge/Tablet-%E2%9C%94-success?style=flat-square
-https://img.shields.io/badge/Mobile-%E2%9C%94-success?style=flat-square
+Device Support
+https://img.shields.io/badge/Desktop-%E2%9C%94-success?style=flat-square ✅ Fully optimized
+https://img.shields.io/badge/Tablet-%E2%9C%94-success?style=flat-square ✅ Fully optimized
+https://img.shields.io/badge/Mobile-%E2%9C%94-success?style=flat-square ✅ Fully optimized
 
 </div>
 
-Fully optimized for:
+Fully optimized for all screen sizes:
 
 · Desktop (1200px+)
 · Tablet (768px–1199px)
@@ -143,11 +142,11 @@ Fully optimized for:
 
 https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-1a4a36?style=for-the-badge&logo=githubpages&logoColor=white
 
-https://rpy2006.github.io/WealthPlus/
+👉 https://rpy2006.github.io/WealthPlus/ 👈
 
 </div>
 
-Experience WealthPulse live — no installation required.
+Experience WealthPulse live — no installation required. Just click and start analyzing your financial health.
 
 ---
 
@@ -170,10 +169,10 @@ Setup
 3. Open index.html in your browser:
    ```bash
    open index.html  # macOS
-   # or double-click the file
+   # or double-click the file in your file explorer
    ```
 
-No build step required — pure HTML/CSS/JS.
+No build step required — pure HTML/CSS/JS. Works immediately.
 
 ---
 
@@ -182,29 +181,30 @@ No build step required — pure HTML/CSS/JS.
 ```
 WealthPlus/
 ├── index.html          # Complete application (HTML, CSS, JS)
-└── README.md           # Documentation
+└── README.md           # Documentation (you are here)
 ```
 
-Everything is contained in a single HTML file for easy deployment.
+Everything is contained in a single HTML file for easy deployment and portability.
 
 ---
 
 📊 Scoring Methodology
 
-Category Weight Target Benchmark Badge
+Category Weight Target Benchmark Status Badge
 Savings Rate 25 pts ≥20% of income https://img.shields.io/badge/Target-20%25%2B-1a4a36?style=flat-square
 Debt Management 20 pts DTI <36% https://img.shields.io/badge/Target-%3C36%25-2471a3?style=flat-square
 Emergency Fund 20 pts 6 months of expenses https://img.shields.io/badge/Target-6%20months-b8860b?style=flat-square
 Net Worth & Assets 20 pts Debt-to-Assets <30% https://img.shields.io/badge/Target-%3C30%25-9b59b6?style=flat-square
 Cash Flow 15 pts Positive surplus https://img.shields.io/badge/Target-Positive-1e8449?style=flat-square
 
-Grades:
+Grade Scale
 
-· 85–100: Excellent https://img.shields.io/badge/Excellent-1a4a36?style=flat-square
-· 70–84: Good https://img.shields.io/badge/Good-2471a3?style=flat-square
-· 55–69: Fair https://img.shields.io/badge/Fair-b8860b?style=flat-square
-· 40–54: Needs Work https://img.shields.io/badge/Needs%20Work-d68910?style=flat-square
-· 0–39: Critical https://img.shields.io/badge/Critical-c0392b?style=flat-square
+Score Range Grade Badge
+85–100 Excellent https://img.shields.io/badge/Excellent-1a4a36?style=flat-square
+70–84 Good https://img.shields.io/badge/Good-2471a3?style=flat-square
+55–69 Fair https://img.shields.io/badge/Fair-b8860b?style=flat-square
+40–54 Needs Work https://img.shields.io/badge/Needs%20Work-d68910?style=flat-square
+0–39 Critical https://img.shields.io/badge/Critical-c0392b?style=flat-square
 
 ---
 
@@ -216,7 +216,7 @@ https://img.shields.io/badge/Disclaimer-Educational%20Only-ff6b6b?style=for-the-
 
 </div>
 
-WealthPulse is for educational and informational purposes only. It does not constitute financial, legal, or tax advice. All calculations are estimates based on user-provided data. Consult a qualified professional before making financial decisions.
+WealthPulse is for educational and informational purposes only. It does not constitute financial, legal, or tax advice. All calculations are estimates based on user-provided data. Consult a qualified professional before making significant financial decisions.
 
 ---
 
@@ -228,7 +228,7 @@ https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 
 </div>
 
-MIT License — see LICENSE file for details.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
 
@@ -240,13 +240,13 @@ https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-bad
 
 </div>
 
-Contributions welcome! Feel free to:
+Contributions are welcome! Feel free to:
 
-· Report bugs
-· Suggest features
-· Submit pull requests
+· 🐛 Report bugs
+· 💡 Suggest features
+· 🔧 Submit pull requests
 
-Please maintain the privacy-first, client-side philosophy.
+Please maintain the privacy-first, client-side philosophy when contributing.
 
 ---
 
@@ -254,13 +254,11 @@ Please maintain the privacy-first, client-side philosophy.
 
 <div align="center">
 
-https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Live-Website-1a4a36?style=for-the-badge&logo=githubpages&logoColor=white
+ 
+https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/Live-Website-1a4a36?style=for-the-badge&logo=githubpages&logoColor=white
+GitHub: github.com/rpy2006/WealthPlus Live: rpy2006.github.io/WealthPlus
 
 </div>
-
-· Live URL: https://rpy2006.github.io/WealthPlus/
-· GitHub: https://github.com/rpy2006/WealthPlus
 
 ---
 
@@ -271,5 +269,7 @@ Built with ❤️ for financial wellness. Your data, your device, your privacy.
 https://img.shields.io/badge/Made%20with-Vanilla%20JS-ffd966?style=flat-square
 https://img.shields.io/badge/Runs-Locally-1a4a36?style=flat-square
 https://img.shields.io/badge/Privacy-100%25-0f2037?style=flat-square
+
+⭐ Star this repo if you find it useful! ⭐
 
 </div>
