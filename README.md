@@ -1,180 +1,69 @@
-
-
 WealthPulse — Financial Health Analyzer
 
-Live Demo: https://rpy2006.github.io/WealthPlus/
+https://img.shields.io/badge/Live%20Demo-WealthPulse-blue?style=flat-square
+https://img.shields.io/badge/License-MIT-green?style=flat-square
+https://img.shields.io/badge/Privacy-First-2ea44f?style=flat-square
 
-https://via.placeholder.com/800x400/0f2037/ffffff?text=WealthPulse+Financial+Health+Analyzer
+Privacy-first financial health analysis tool. Get a 0–100 score, personalized insights, and a 90-day action plan—all in your browser. No data ever leaves your device.
 
-<div align="center">
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
-https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white
-
-https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
-https://img.shields.io/badge/Privacy-First-2ea44f?style=for-the-badge
-https://img.shields.io/badge/No%20Server-Local%20Only-0f2037?style=for-the-badge
-https://img.shields.io/badge/Responsive-Yes-2471a3?style=for-the-badge
-
-</div>
-
-WealthPulse is a comprehensive, client-side financial health analysis tool that helps individuals, small businesses, and startups assess their financial wellness through an interactive questionnaire. It generates detailed reports with scores, visualizations, and actionable recommendations—all without sending your data anywhere.
+👉 Live Demo
 
 ---
 
 ✨ Features
 
-<div align="center">
-
-https://img.shields.io/badge/Health%20Score-0--100-1a4a36?style=flat-square
-https://img.shields.io/badge/Analysis-6%20Step-0f2037?style=flat-square
-https://img.shields.io/badge/Export-PNG%20%7C%20PDF-b8860b?style=flat-square
-https://img.shields.io/badge/Charts-Interactive-2471a3?style=flat-square
-
-</div>
-
-📊 Guided Financial Assessment
-
-· 6-step questionnaire covering profile, income, expenses, assets, debts, and goals
-· Three analysis modes: Personal, Small Business, and Startup
-· Real-time calculations with live summaries as you type
-· Multiple currency support (USD, EUR, GBP, INR, JPY, CAD, AUD, ZAR, NGN)
-
-📈 Health Score & Metrics
-
-· 0–100 Financial Health Score with weighted categories:
-  · Savings Rate (25 pts)
-  · Debt Management (20 pts)
-  · Emergency Fund (20 pts)
-  · Net Worth & Assets (20 pts)
-  · Cash Flow (15 pts)
-· 8 key metric cards with color-coded status indicators
-· Letter grade from "Excellent" to "Critical"
-
-📊 Data Visualization
-
-· Interactive charts (via Chart.js):
-  · Income vs. expenses bar chart
-  · Expense distribution doughnut chart
-  · Assets vs. liabilities stacked bar chart
-· Animated gauge showing your health score
-· Progress bars for score breakdown and ratio comparisons
-
-📋 Insights & Recommendations
-
-· 6 key financial ratios with benchmark comparisons
-· Smart, prioritized recommendations (high/medium/low urgency)
-· Automatic risk flag detection for financial vulnerabilities
-
-📅 90-Day Action Plan
-
-· Prioritized steps: Do Now, Next 60 Days, 60–90 Day Goals
-· Interactive checklists to track progress
-
-📤 Export & Sharing
-
-· Download as PNG — High-resolution image of complete report
-· Download as PDF — Multi-page, paginated document
-· Print-friendly — Optimized styles for physical copies
-· Progress overlay during export for visual feedback
+· 6-step questionnaire — Profile, Income, Expenses, Assets, Debts, Goals
+· Three modes — Personal, Small Business, Startup
+· Health score — 0–100 with letter grade (Excellent to Critical)
+· 8 key metrics — Net income, savings rate, DTI, emergency fund, etc.
+· Interactive charts — Income vs expenses, expense breakdown, net worth
+· Smart recommendations — Priority-based (high/med/low) personalized advice
+· 90-day action plan — Prioritized steps with interactive checklists
+· Export — Download as PNG or multi-page PDF
 
 ---
 
-🛠️ Technology Stack
+🛠️ Tech Stack
 
-<div align="center">
-
-Frontend Libraries Deployment
-https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white https://img.shields.io/badge/html2canvas-1.4.1-0f2037 https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black https://img.shields.io/badge/jsPDF-2.5.1-c0392b https://img.shields.io/badge/Dependencies-None-brightgreen
-
-</div>
-
-· HTML5 — Semantic structure
-· CSS3 — Custom properties, responsive design, animations
-· Vanilla JavaScript — No frameworks, pure JS implementation
-· Libraries:
-  · Chart.js — Data visualization
-  · html2canvas — DOM-to-image capture
-  · jsPDF — PDF generation
-· Fonts — Google Fonts: Playfair Display, Syne, JetBrains Mono
+· HTML5 · CSS3 · Vanilla JavaScript (no frameworks)
+· Chart.js — Data visualization
+· html2canvas — PNG export
+· jsPDF — PDF generation
+· GitHub Pages — Hosting
 
 ---
 
-🔒 Privacy First
+🚀 Quick Start
 
-<div align="center">
+```bash
+# Clone repo
+git clone https://github.com/rpy2006/WealthPlus.git
 
-https://img.shields.io/badge/Privacy-100%25%20Local-2ea44f?style=for-the-badge
-https://img.shields.io/badge/Server-None-0f2037?style=for-the-badge
-https://img.shields.io/badge/Tracking-Zero-b8860b?style=for-the-badge
+# Open in browser
+cd WealthPlus
+open index.html  # or double-click
+```
 
-</div>
-
-No data ever leaves your device. Everything runs locally in your browser. No accounts, no sign-ups, no tracking, no servers. Your financial information stays with you.
-
----
-
-📱 Responsive Design
-
-<div align="center">
-
-Device Support
-https://img.shields.io/badge/Desktop-%E2%9C%94-success?style=flat-square ✅ Fully optimized
-https://img.shields.io/badge/Tablet-%E2%9C%94-success?style=flat-square ✅ Fully optimized
-https://img.shields.io/badge/Mobile-%E2%9C%94-success?style=flat-square ✅ Fully optimized
-
-</div>
-
-Fully optimized for all screen sizes:
-
-· Desktop (1200px+)
-· Tablet (768px–1199px)
-· Mobile (320px–767px)
+No build step required — works immediately.
 
 ---
 
-🚀 Live Demo
+📊 Scoring
 
-<div align="center">
+Category Weight Target
+Savings Rate 25 pts ≥20%
+Debt Management 20 pts DTI <36%
+Emergency Fund 20 pts 6 months
+Net Worth & Assets 20 pts D/A <30%
+Cash Flow 15 pts Positive surplus
 
-https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white
-
-👉 https://rpy2006.github.io/WealthPlus/ 👈
-
-</div>
-
-Experience WealthPulse live — no installation required. Just click and start analyzing your financial health.
+Grades: 85+ Excellent · 70–84 Good · 55–69 Fair · 40–54 Needs Work · <40 Critical
 
 ---
 
-💻 Local Development
+🔒 Privacy
 
-Prerequisites
-
-· Modern web browser (Chrome, Firefox, Safari, Edge)
-
-Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rpy2006/WealthPlus.git
-   ```
-2. Navigate to project folder:
-   ```bash
-   cd WealthPlus
-   ```
-3. Open index.html in your browser:
-   ```bash
-   open index.html  # macOS
-   # or double-click the file in your file explorer
-   ```
-
-No build step required — pure HTML/CSS/JS. Works immediately.
+100% client-side. No servers, no tracking, no accounts. Your data stays on your device.
 
 ---
 
@@ -182,96 +71,27 @@ No build step required — pure HTML/CSS/JS. Works immediately.
 
 ```
 WealthPlus/
-├── index.html          # Complete application (HTML, CSS, JS)
-└── README.md           # Documentation (you are here)
+├── index.html    # Entire application
+└── README.md     # Documentation
 ```
 
-Everything is contained in a single HTML file for easy deployment and portability.
-
----
-
-📊 Scoring Methodology
-
-Category Weight Target Benchmark Status Badge
-Savings Rate 25 pts ≥20% of income https://img.shields.io/badge/Target-20%25%2B-1a4a36?style=flat-square
-Debt Management 20 pts DTI <36% https://img.shields.io/badge/Target-%3C36%25-2471a3?style=flat-square
-Emergency Fund 20 pts 6 months of expenses https://img.shields.io/badge/Target-6%20months-b8860b?style=flat-square
-Net Worth & Assets 20 pts Debt-to-Assets <30% https://img.shields.io/badge/Target-%3C30%25-9b59b6?style=flat-square
-Cash Flow 15 pts Positive surplus https://img.shields.io/badge/Target-Positive-2ea44f?style=flat-square
-
-Grade Scale
-
-Score Range Grade Badge
-85–100 Excellent https://img.shields.io/badge/Excellent-1a4a36?style=flat-square
-70–84 Good https://img.shields.io/badge/Good-2471a3?style=flat-square
-55–69 Fair https://img.shields.io/badge/Fair-b8860b?style=flat-square
-40–54 Needs Work https://img.shields.io/badge/Needs%20Work-d68910?style=flat-square
-0–39 Critical https://img.shields.io/badge/Critical-c0392b?style=flat-square
-
----
-
-⚠️ Disclaimer
-
-<div align="center">
-
-https://img.shields.io/badge/Disclaimer-Educational%20Only-ff6b6b?style=for-the-badge
-
-</div>
-
-WealthPulse is for educational and informational purposes only. It does not constitute financial, legal, or tax advice. All calculations are estimates based on user-provided data. Consult a qualified professional before making significant financial decisions.
-
----
-
-📝 License
-
-<div align="center">
-
-https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
-
-</div>
-
-This project is licensed under the MIT License — see the LICENSE file for details.
+Everything in one file for easy deployment.
 
 ---
 
 🤝 Contributing
 
-<div align="center">
-
-https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge
-
-</div>
-
-Contributions are welcome! Feel free to:
-
-· 🐛 Report bugs
-· 💡 Suggest features
-· 🔧 Submit pull requests
-
-Please maintain the privacy-first, client-side philosophy when contributing.
+PRs welcome! Please maintain the privacy-first, vanilla JS philosophy.
 
 ---
 
-📞 Contact
+📄 License
 
-<div align="center">
-
- 
-https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/Live-Website-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white
-GitHub: github.com/rpy2006/WealthPlus Live: rpy2006.github.io/WealthPlus
-
-</div>
+MIT © rpy2006
 
 ---
 
-<div align="center">
-
-Built with ❤️ for financial wellness. Your data, your device, your privacy.
-
-https://img.shields.io/badge/Made%20with-Vanilla%20JS-ffd966?style=flat-square
-https://img.shields.io/badge/Runs-Locally-2ea44f?style=flat-square
-https://img.shields.io/badge/Privacy-100%25-0f2037?style=flat-square
-
-⭐ Star this repo if you find it useful! ⭐
-
-</div>
+<p align="center">
+  <a href="https://rpy2006.github.io/WealthPlus/">Live Demo</a> •
+  <a href="https://github.com/rpy2006/WealthPlus">GitHub</a>
+</p>
