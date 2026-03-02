@@ -1,3 +1,5 @@
+
+
 WealthPulse — Financial Health Analyzer
 
 Live Demo: https://rpy2006.github.io/WealthPlus/
@@ -13,7 +15,7 @@ https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs
 https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white
 
 https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
-https://img.shields.io/badge/Privacy-First-1a4a36?style=for-the-badge
+https://img.shields.io/badge/Privacy-First-2ea44f?style=for-the-badge
 https://img.shields.io/badge/No%20Server-Local%20Only-0f2037?style=for-the-badge
 https://img.shields.io/badge/Responsive-Yes-2471a3?style=for-the-badge
 
@@ -107,7 +109,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black h
 
 <div align="center">
 
-https://img.shields.io/badge/Privacy-100%25%20Local-1a4a36?style=for-the-badge
+https://img.shields.io/badge/Privacy-100%25%20Local-2ea44f?style=for-the-badge
 https://img.shields.io/badge/Server-None-0f2037?style=for-the-badge
 https://img.shields.io/badge/Tracking-Zero-b8860b?style=for-the-badge
 
@@ -140,7 +142,7 @@ Fully optimized for all screen sizes:
 
 <div align="center">
 
-https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-1a4a36?style=for-the-badge&logo=githubpages&logoColor=white
+https://img.shields.io/badge/LIVE%20DEMO-Click%20Here-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white
 
 👉 https://rpy2006.github.io/WealthPlus/ 👈
 
@@ -195,7 +197,7 @@ Savings Rate 25 pts ≥20% of income https://img.shields.io/badge/Target-20%25%2
 Debt Management 20 pts DTI <36% https://img.shields.io/badge/Target-%3C36%25-2471a3?style=flat-square
 Emergency Fund 20 pts 6 months of expenses https://img.shields.io/badge/Target-6%20months-b8860b?style=flat-square
 Net Worth & Assets 20 pts Debt-to-Assets <30% https://img.shields.io/badge/Target-%3C30%25-9b59b6?style=flat-square
-Cash Flow 15 pts Positive surplus https://img.shields.io/badge/Target-Positive-1e8449?style=flat-square
+Cash Flow 15 pts Positive surplus https://img.shields.io/badge/Target-Positive-2ea44f?style=flat-square
 
 Grade Scale
 
@@ -255,7 +257,7 @@ Please maintain the privacy-first, client-side philosophy when contributing.
 <div align="center">
 
  
-https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/Live-Website-1a4a36?style=for-the-badge&logo=githubpages&logoColor=white
+https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/Live-Website-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white
 GitHub: github.com/rpy2006/WealthPlus Live: rpy2006.github.io/WealthPlus
 
 </div>
@@ -267,7 +269,7 @@ GitHub: github.com/rpy2006/WealthPlus Live: rpy2006.github.io/WealthPlus
 Built with ❤️ for financial wellness. Your data, your device, your privacy.
 
 https://img.shields.io/badge/Made%20with-Vanilla%20JS-ffd966?style=flat-square
-https://img.shields.io/badge/Runs-Locally-1a4a36?style=flat-square
+https://img.shields.io/badge/Runs-Locally-2ea44f?style=flat-square
 https://img.shields.io/badge/Privacy-100%25-0f2037?style=flat-square
 
 ⭐ Star this repo if you find it useful! ⭐
